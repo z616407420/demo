@@ -23,9 +23,9 @@ public class RedisUtil {
     // =============================common============================
 
     /**
-     * 指定缓存失效时间a
+     * 指定缓存失效时间123
      *
-     * @param key  键ddd
+     * @param key  键123
      * @param time 时间(秒)
      * @return
      */
